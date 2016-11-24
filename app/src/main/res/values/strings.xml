@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BasicMenu</string>
+
+    <string name="name">NOU</string>
+
+
+    <string-array name="nav_drawer_items">
+        <item>Elemento 1</item>
+        <item>Elemento 2</item>
+        <item>Elemento 3</item>
+        <item>Elemento 4</item>
+        <!-- <item>Third</item>
+        <item>Fourth</item>
+        <item>Fifth</item>
+        <item>Sixth</item> -->
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@mipmap/ic_drawer</item>
+        <item>@mipmap/ic_drawer</item>
+        <item>@mipmap/ic_drawer</item>
+        <item>@mipmap/ic_drawer</item>
+        <!--
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        -->
+
+    </array>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
